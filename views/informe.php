@@ -1,6 +1,6 @@
 <?php
 
-require '../header.php';
+require 'menu.php';
 
 require '../formularios/resultados_informe.php';
 

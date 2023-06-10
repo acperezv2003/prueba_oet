@@ -1,6 +1,6 @@
 <?php
 
-require '../header.php';
+require 'menu.php';
 
 require '../formularios/form_propietario.php';
 
